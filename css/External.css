@@ -1,0 +1,44 @@
+/* Apparently, this is what I have to create: */
+
+/* Universal Element I suppose */
+
+* {
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+
+p {
+    font-size: large;
+
+
+}
+
+table, th, td {
+    width: 40%;
+    text-align: center;
+}
+
+table{
+    margin-left : auto;
+    margin-right : auto;
+}
+
+body{
+    /* Alternative background image: "../images/bigboss.jpg" */
+    background-image: url("../images/bigboss.jpg");
+    background-size: cover;
+    background-color: white;
+
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+    width: auto;
+}
+ 
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
